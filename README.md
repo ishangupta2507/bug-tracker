@@ -1,9 +1,9 @@
 # Bug Tracker (Frontend)
 
-This is the frontend part of a Bug Tracker application, built using **Next.js** and styled with **Tailwind CSS**. The backend for this project has not been implemented yet.
+This is the frontend part of a Bug Tracker application,which can be used by users to track bugs or their daily tasks at work. Built using **Next.js** and styled with **Tailwind CSS**. The backend for this project has not been implemented yet.
 
 ## Features
-- User-friendly interface for tracking bugs.
+- User-friendly interface for tracking bugs/tasks.
 - A simple login page (though the backend is not implemented).
 - Clean and responsive design using **Tailwind CSS**.
 
@@ -43,7 +43,7 @@ Make sure you have the following installed on your system:
    ```bash
    http://localhost:3000
    ```
-# Login Credintials 
+# Login Credentials 
 Since the backend is not implemented, the login functionality is only available on the frontend. Use the following credentials to log in:
 
 Email: user@example.com
