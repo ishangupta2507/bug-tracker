@@ -2,6 +2,9 @@
 
 This is the frontend part of a Bug Tracker application,which can be used by users to track bugs or their daily tasks at work. Built using **Next.js** and styled with **Tailwind CSS**. The backend for this project has not been implemented yet.
 
+# Link to live site 
+https://bug-tracker-azure.vercel.app/
+
 ## Features
 - User-friendly interface for tracking bugs/tasks.
 - A simple login page (though the backend is not implemented).
